@@ -111,13 +111,13 @@ SDK가 자동으로 선언하는 권한:
 
 **Swift Package Manager (Xcode)**
 1. `File` → `Add Package Dependencies`
-2. URL 입력: `https://github.com/thezooom-kr/GiftShopSDK-public`
+2. URL 입력: `https://github.com/supercon-cashwalk/GiftShopSDK-public`
 3. `GiftShopSDK` 타겟 추가
 
 **Swift Package Manager (Package.swift)**
 ```swift
 dependencies: [
-    .package(url: "https://github.com/thezooom-kr/GiftShopSDK-public", from: "1.0.0")
+    .package(url: "https://github.com/supercon-cashwalk/GiftShopSDK-public", from: "1.0.0")
 ]
 ```
 

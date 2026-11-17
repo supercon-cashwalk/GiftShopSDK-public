@@ -21,7 +21,7 @@ iOS 연동 → [ios.md](./ios.md) | Bridge 프로토콜 → [bridge.md](./bridge
 
 **1) AAR 다운로드**
 
-[GitHub Releases](https://github.com/thezooom-kr/GiftShopSDK-public/releases/latest)에서 `GiftShopSDK.aar`를 다운로드합니다.
+[GitHub Releases](https://github.com/supercon-cashwalk/GiftShopSDK-public/releases/latest)에서 `GiftShopSDK.aar`를 다운로드합니다.
 
 **2) 프로젝트에 추가**
 

@@ -24,14 +24,14 @@ Android 연동 → [android.md](./android.md) | Bridge 프로토콜 → [bridge.
 
 `File` → `Add Package Dependencies` → URL 입력:
 ```
-https://github.com/thezooom-kr/GiftShopSDK-public
+https://github.com/supercon-cashwalk/GiftShopSDK-public
 ```
 
 **Package.swift에서 추가**
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/thezooom-kr/GiftShopSDK-public", from: "1.0.0")
+    .package(url: "https://github.com/supercon-cashwalk/GiftShopSDK-public", from: "1.0.0")
 ],
 targets: [
     .target(name: "YourApp", dependencies: ["GiftShopSDK"])
